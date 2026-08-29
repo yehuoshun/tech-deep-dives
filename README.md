@@ -6,9 +6,9 @@ AI Agent 与开源项目的**源码深度拆解报告**。不止看 README——
 
 ## 📚 拆解清单
 
-| # | 项目 | 一句话 | 报告 |
-|---|------|--------|------|
-| 01 | [Cyrene-Agent](https://github.com/Playa-0v0/Cyrene-Agent) | 崩铁昔涟 AI 桌面伴侣：灵魂机制(souls) + DMAE 记忆 + CyreneHarness 引擎三位一体 | [01-cyrene-agent.md](./01-cyrene-agent.md) |
+| # | 原始项目 | 一句话 | 拆解日期 | 报告 |
+|---|---------|--------|---------|------|
+| 01 | [Cyrene-Agent](https://github.com/Playa-0v0/Cyrene-Agent) | 崩铁昔涟 AI 桌面伴侣：灵魂机制(souls) + DMAE 记忆 + CyreneHarness 引擎三位一体 | 2026-08-29 | [01-cyrene-agent.md](./01-cyrene-agent.md) |
 
 > 持续更新中，新拆解按序号递增。
 

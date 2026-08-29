@@ -1,6 +1,6 @@
 # Cyrene-Agent 三大核心源码拆解
 
-> 拆解对象：Playa-0v0/Cyrene-Agent（commit 7f5d203，v1.1.9 线）
+> 拆解对象：[Playa-0v0/Cyrene-Agent](https://github.com/Playa-0v0/Cyrene-Agent)（commit 7f5d203，v1.1.9 线）
 > 拆解日期：2026-08-29
 > 结论先行：**灵魂机制（souls）+ 记忆（DMAE）+ 引擎（CyreneHarness）三位一体**，皮套（Live2D/IP）不是核心。
 
